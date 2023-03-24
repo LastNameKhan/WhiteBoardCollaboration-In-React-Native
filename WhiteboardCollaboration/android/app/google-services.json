@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "123206345253",
+    "firebase_url": "https://whiteboardcollaboration-89ef5-default-rtdb.firebaseio.com",
+    "project_id": "whiteboardcollaboration-89ef5",
+    "storage_bucket": "whiteboardcollaboration-89ef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123206345253:android:962db72e6a72fc854f95cc",
+        "android_client_info": {
+          "package_name": "com.whiteboardcollaboration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123206345253-pb2gc206qhra124kf29aob3o7ad2ab93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYod_wUq4RPrT3YkpClm_s6YjX7pZLmVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123206345253-pb2gc206qhra124kf29aob3o7ad2ab93.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123206345253-v5c3q65ok3rovft3dmlndli83290e2p2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.WhiteboardCollaboration"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
